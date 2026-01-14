@@ -1,0 +1,1 @@
+A practice in translating Java source code to Typescript
